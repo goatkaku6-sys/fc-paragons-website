@@ -1,0 +1,90 @@
+body{
+font-family:Arial, sans-serif;
+margin:0;
+background-color:#2f2f2;
+text-align:center;
+}
+nav{
+background-color:#111;
+padding: 18px;
+}
+nav a {
+color: white;
+text-decoration:none;
+margin:0 15px;
+font-weight:bold;
+}
+nav a:hover {
+color:#00ff00;
+}
+img{
+margin-top: 25px;
+}
+h1{
+font-size:40px;
+color:#111;
+}
+p{
+font-size:18px;
+}
+.player{
+background-color:white;
+width:250px;
+margin:20px auto;
+padding:20px;
+border-radius:15px;
+box-shadow:0 4px 10px #aaa;
+}
+.player p {
+font-size:16px;
+}
+#contact{
+background-color:#111;
+color:white;
+padding:40px 20px
+margin-top:40px
+}
+#contact h2{
+font-size:30px;
+margin-bottom:20px;
+}
+#contact p {
+font-size:17px;
+margin:10px;
+}
+#contact:#00ff00;
+color:#00ff00;
+text-decoration:none;
+font-weight:bold;
+margin:0 8px;
+
+}
+#players{
+padding:30px 10px:
+}
+#players h2{
+font-size:32px;
+margins-bottom:25px;
+}
+.player{
+width:250px;
+margin:20pxauto;
+padding:20px;
+background-color:white;
+border-radius:15px;
+box-shadow:0 4px 10px #aaa;
+}
+.player h3{
+font-size:24px;
+margin-bottom:10px;
+}
+.player p{
+font-size:16px;
+}
+#player{
+background-color:yellow;
+}
+#player{
+border:10px solid red !important;
+}
+
